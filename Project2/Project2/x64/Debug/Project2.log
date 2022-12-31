@@ -1,0 +1,88 @@
+﻿  main.cpp
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\query_string.h(117,37): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\query_string.h(370,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\query_string.h(406,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\query_string.h(445,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\utility.h(672,1): warning C4267: '初期化中': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\http_parser_merged.h(589,32): warning C4244: '=': '__int64' から 'unsigned long' への変換です。データが失われる可能性があります。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\http_parser_merged.h(609,32): warning C4244: '=': '__int64' から 'unsigned long' への変換です。データが失われる可能性があります。
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\json.h(1211,39): warning C4267: '引数': 'size_t' から 'uint32_t' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\json.h(1671,1): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\mustache.h(97,1): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\mustache.h(116,1): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\mustache.h(118,1): warning C4267: '引数': 'size_t' から '_Ty' に変換しました。データが失われているかもしれません。
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\mustache.h(221,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\mustache.h(367,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\mustache.h(378,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\mustache.h(390,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\mustache.h(401,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\mustache.h(463,1): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\mustache.h(563,1): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\routing.h(800,70): warning C4244: '引数': '__int64' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\routing.h(821,70): warning C4244: '引数': '__int64' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\routing.h(842,70): warning C4244: '引数': '__int64' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\routing.h(864,1): warning C4267: '引数': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\routing.h(880,1): warning C4267: '引数': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\routing.h(895,1): warning C4267: '引数': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\routing.h(945,53): warning C4267: '+=': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\routing.h(956,45): warning C4267: '+=': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\routing.h(1002,36): warning C4267: '+=': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\routing.h(1005,33): warning C4267: '+=': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\routing.h(1204,1): warning C4267: '引数': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\routing.h(1204,1): warning C4267: '引数': 'size_t' から 'uint16_t' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\routing.h(1210,1): warning C4267: '引数': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\routing.h(1259,1): warning C4267: '引数': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\routing.h(1420,1): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\http_connection.h(464,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\http_connection.h(464): message : クラス テンプレート メンバー関数 'void crow::Connection<Adaptor,Handler>::do_read(void)' のコンパイル中
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\http_connection.h(88): message : コンパイル対象の関数 テンプレート インスタンス化 'void crow::Connection<Adaptor,Handler>::do_read(void)' のリファレンスを確認してください
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\http_server.h(195): message : コンパイル対象の クラス テンプレート インスタンス化 'crow::Connection<Adaptor,Handler>' のリファレンスを確認してください
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\http_server.h(195): message : クラス テンプレート メンバー関数 'void crow::Server<crow::Crow<>,crow::SocketAdaptor>::do_accept(void)' のコンパイル中
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\http_server.h(152): message : コンパイル対象の関数 テンプレート インスタンス化 'void crow::Server<crow::Crow<>,crow::SocketAdaptor>::do_accept(void)' のリファレンスを確認してください
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\app.h(301): message : コンパイル対象の クラス テンプレート インスタンス化 'crow::Server<crow::Crow<>,crow::SocketAdaptor>' のリファレンスを確認してください
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\app.h(280): message : クラス テンプレート メンバー関数 'void crow::Crow<>::run(void)' のコンパイル中
+C:\Users\81805\source\repos\Project2\Project2\main.cpp(12): message : コンパイル対象の関数 テンプレート インスタンス化 'void crow::Crow<>::run(void)' のリファレンスを確認してください
+C:\Users\81805\source\repos\Project2\Project2\main.cpp(5): message : コンパイル対象の クラス テンプレート インスタンス化 'crow::Crow<>' のリファレンスを確認してください
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\parser.h(118,1): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\parser.h(104): message : クラス テンプレート メンバー関数 'bool crow::HTTPParser<crow::Connection<Adaptor,Handler>>::feed(const char *,int)' のコンパイル中
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\http_connection.h(473): message : コンパイル対象の関数 テンプレート インスタンス化 'bool crow::HTTPParser<crow::Connection<Adaptor,Handler>>::feed(const char *,int)' のリファレンスを確認してください
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+C:\Users\81805\vcpkg\installed\x64-windows\include\crow\http_connection.h(596): message : コンパイル対象の クラス テンプレート インスタンス化 'crow::HTTPParser<crow::Connection<Adaptor,Handler>>' のリファレンスを確認してください
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+  Project2.vcxproj -> C:\Users\81805\source\repos\Project2\x64\Debug\Project2.exe
